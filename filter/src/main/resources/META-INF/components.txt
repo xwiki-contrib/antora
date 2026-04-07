@@ -1,0 +1,3 @@
+org.xwiki.contrib.antora.filter.internal.input.AntoraInputFilterStreamFactory
+org.xwiki.contrib.antora.filter.internal.input.AntoraInputFilterStream
+org.xwiki.contrib.antora.filter.internal.input.AsciiDocRenderer
